@@ -1,0 +1,6 @@
+[book]
+authors = ["Duel"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Lion's Bible"
